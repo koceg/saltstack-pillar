@@ -1,3 +1,3 @@
-qa:
+"{{saltenv}}":
   '*':
     - git_data
